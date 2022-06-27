@@ -19,6 +19,7 @@
 - WireUp Banking Dapp
   - Connect DID / Profile and SAFE
   - Connect send money API
+  - Data Input Validation
   - Display transaction metadata
 
 ## Goal 4
