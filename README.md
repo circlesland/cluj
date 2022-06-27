@@ -20,6 +20,7 @@
   - Connect DID / Profile and SAFE
   - Connect send money API
   - Data Input Validation
+  - Language Switch + Translator
   - Display transaction metadata
 
 ## Goal 4
