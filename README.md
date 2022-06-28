@@ -29,3 +29,8 @@
 
 ## Resources
 - Svelte Tutorial: https://svelte.dev/tutorial/basics
+- For mobile: Capactior & Svelte: https://capacitorjs.com/solution/svelte
+- For desktop: https://www.electronjs.org/
+- Bundler: https://vitejs.dev/
+- Tailwind: https://tailwindcss.com/
+- Typescript: 
