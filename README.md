@@ -7,6 +7,7 @@
   - Function => Services + Actions in seperate libraies independent of UI's
   - Router => loader + compositor (alias support)
   - JSON only Manifest - First Dapp (Hello Earth) - Orechstrating only functions and UI composites
+  - Load tailwind themes (dark/light)
 
 ## Goal 2
 - Mock Banking Dapp with 1 Action - Send money trigering the send xstate flow
@@ -25,3 +26,6 @@
 
 ## Goal 4
 - Build next Dapp
+
+## Resources
+- Svelte Tutorial: https://svelte.dev/tutorial/basics
