@@ -26,6 +26,11 @@ This web parts weren’t think to be reused anywhere, but you can use them as PO
 ```
 4. Check out Ceramic and the DID concept and write a PoC that uses a DID document as profile
 
+
+
+__Notes:__
+* Add a page for the case the deep-link doesn't work
+
 Overall preliminary timeline:
 ### Goal 1 - Core
 - All target platforms, svelte-capacitor (ios, android), electron (Windows, Linux, macOS)
