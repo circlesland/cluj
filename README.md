@@ -25,8 +25,10 @@ As we commented in the Zoom call here you have some resources to start checking 
 This web parts weren’t think to be reused anywhere, but you can use them as POC inspiration. We sometimes do changes in the SDK that involve changes in web to keep compatibility, so it may be a bit difficult to keep up to date. We may discuss internally if some kind of lib would make sense but still in the end some actions to what Safe Apps send you should be created on your side
 ```
 3.1. Checkout if this is a good starting point for safe-app integration: https://github.com/rmeissner/dsafe  
-3.9) Use our own circles.land app in the safe-frame (skip the signup and go directly to the dashboard - make at least banking completely work) 
-4. Check out Ceramic and the DID concept and write a PoC that uses a DID document as profile
+3.9) Use our own circles.land app in the safe-frame (skip the signup and go directly to the dashboard - make at least banking completely work)  
+
+4. Check out Ceramic and the DID concept and write a PoC that uses a DID document as profile   
+4.1 Starting point: https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-101/CIP-101.md
 
 
 
